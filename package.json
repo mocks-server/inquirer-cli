@@ -36,7 +36,7 @@
     "@mocks-server/core": ">=2.0.0"
   },
   "dependencies": {
-    "chalk": "4.1.1",
+    "chalk": "5.0.0",
     "inquirer": "8.2.0",
     "inquirer-autocomplete-prompt": "1.4.0",
     "lodash": "4.17.21",
